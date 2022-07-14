@@ -7,3 +7,4 @@ Combination of Penn State's Schedulebuilder and Google Calendar's schedule-plann
 - Built by Penn State Students
 
 API comm, custom schedule planning, faster decisions, better time-management
+Additional feature: Integration with psu-maps/custom google maps api for getting the travel distance and time between classes visually. + added warning status if travel distance mentioned is greater than class's time gap (i.e. 20min travel distance walking inbetween the 2 classes, where the gap is 15 minutes)
