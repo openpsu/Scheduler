@@ -4,3 +4,7 @@ This project is currently in active development.
 
 ## Features
 - TBA
+
+## Development Stack
+Frontend: React, React-Router, TailwindCSS, and Firebase.
+Backend: TBA
